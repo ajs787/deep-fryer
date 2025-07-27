@@ -8,4 +8,4 @@ git clone https://github.com/ajs787/deep-fryer.git
 ## step 2: run it with this command
 python deepfry.py
 
-## step 3: save the fried image!
+## step 3: save your fried image
