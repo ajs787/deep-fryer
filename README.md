@@ -1,4 +1,4 @@
-# meme deep-fryer
+# meme deep-fryer 🍟
 
 This is a tool to deep-fry any image saved on your mac. You can use it by running it in your terminal. (has only been tested for macOS compatibility)
 
