@@ -1,6 +1,6 @@
 # meme deep-fryer
 
-deep-fry any image by running this tool in your terminal!
+This is a tool to deep-fry any image saved on your device. You can use it by running it in your terminal.
 
 ## step 1: clone the repo in any folder
 git clone https://github.com/ajs787/deep-fryer.git 
