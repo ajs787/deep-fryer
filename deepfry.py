@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import filedialog
-from PIL import Image, ImageFilter, ImageEnhance
+from PIL import Image, ImageEnhance
 
 #hiding main Tk window
 root = tk.Tk()
@@ -18,8 +18,7 @@ try:
 	
 		img = Image.open(file_path)
 		
-		#edits the image	
-		
+		#edits the image by increasing contrast, saturating, and sharpening
 		img1 = ImageEnhance.Contrast(img).enhance(2.5)		
 		img1 = ImageEnhance.Color(img1).enhance(9.5)		
 		img1 = ImageEnhance.Sharpness(img1).enhance(18.5)
